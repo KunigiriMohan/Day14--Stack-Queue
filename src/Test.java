@@ -11,5 +11,6 @@ public class Test {
         System.out.println();
         System.out.println("Data after Dequeue");
         q.display();
+        
     }
 }
